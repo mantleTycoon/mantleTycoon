@@ -1,4 +1,4 @@
-# goldhunter
+# mantleTycoon
 <h1 align="center">Hi 👋, Welcome to visit my github.</h1>
 <h3 align="center">A passionate Full stack developer.</h3>
 
